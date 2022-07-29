@@ -90,10 +90,10 @@
 
 <!-- CONNECT WITH ME ICONS CODE -->
 <p align="left">
-<a href = "https://www.linkedin.com/in/samarsaeedkhan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="_blank"/></a>
-<a href = "https://github.com/samar4saeedkhan"><img src="https://img.icons8.com/windows/48/000000/github.png" target="_blank"/></a>
-<a href="mailto:samarsaeedkhan4@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" target="_blank"/></a>
-<a href="https://www.hackerrank.com/samarsaeedkhan4"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="44" height="44" target="_blank"/></a>
+<a href = "https://www.linkedin.com/in/samarsaeedkhan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="_blank"></a>
+<a href = "https://github.com/samar4saeedkhan"><img src="https://img.icons8.com/windows/48/000000/github.png" target="_blank"></a>
+<a href="mailto:samarsaeedkhan4@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" target="_blank"></a>
+<a href="https://www.hackerrank.com/samarsaeedkhan4"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="44" height="44" target="_blank"></a>
 </p>
 
 <h2 dir="auto"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-contribution-achievements-flaticons-lineal-color-flat-icons.png" width="40" data-animated-image="" </a> <strong>Contribution Graph:</strong> </h2>
