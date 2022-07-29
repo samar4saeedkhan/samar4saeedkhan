@@ -95,4 +95,4 @@
 <a href="mailto:samarsaeedkhan4@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"></a>
 </p>
 
-
+![snake gif](https://github.com/samar4saeedkhan/samar4saeedkhan/blob/output/github-contribution-grid-snake.gif)
